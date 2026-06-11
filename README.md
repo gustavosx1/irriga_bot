@@ -2,7 +2,7 @@
 
 > Irrigador automático de plantas com ESP32, sensor de umidade do solo e controle via app web.
 
-# 🌿 Link do repositório do APP do IrrigaBot: https://github.com/gustavosx1/irrigabot-ap
+# 🌿 Link do repositório do APP do IrrigaBot: https://github.com/gustavosx1/irrigabot-app
 ---
 
 ## 📋 Visão geral
