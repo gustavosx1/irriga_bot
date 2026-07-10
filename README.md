@@ -4,6 +4,8 @@
 
 # 🌿 Link do repositório do APP do IrrigaBot: https://github.com/gustavosx1/irrigabot-app
 ---
+# Link do vídeo do funcionamento do Projeto: https://youtube.com/shorts/M1AHHFaKd7k?feature=share
+Infelizmente na gravação do vídeo houveram problemas técnicos quanto à fonte utilizada para fornecer energia à bomba de água e ao ldr
 
 ## 📋 Visão geral
 
